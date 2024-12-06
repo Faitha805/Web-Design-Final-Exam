@@ -1,0 +1,14 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 10 px;
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    background-color: aqua;
+    border: 2px;
+    padding: 0 10%;
+    margin: 0 10px;
+}

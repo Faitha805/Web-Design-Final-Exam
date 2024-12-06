@@ -1,0 +1,14 @@
+body{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(300px, 25% 75%));
+    gap: 10px;
+    color: white;
+}
+
+section{
+    background-color: green;
+}
+
+main{
+    background-color: blue;
+}

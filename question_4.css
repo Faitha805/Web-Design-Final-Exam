@@ -1,0 +1,8 @@
+footer{
+    display: flexbox;
+}
+
+footer i{
+    background-color: black;
+    color: white;
+}

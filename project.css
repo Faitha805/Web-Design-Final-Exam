@@ -1,0 +1,28 @@
+nav{
+    background-color: aqua;
+    display: flex;
+}
+
+nav a{
+    flex: 1;
+    background-color: aqua;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+nav a:hover{
+    background-color: blue;
+    color: white;
+}
+
+footer{
+    background-color: beige;
+}
+
+footer a{
+    background-color: beige;
+    text-decoration: none;
+    text-align: center;
+    color: blue;
+}

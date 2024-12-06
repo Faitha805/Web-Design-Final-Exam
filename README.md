@@ -5,7 +5,7 @@ SECTION A
 2. D
 3. B
 4. C
-5. A
+5. B
 6. B
 7. C
 8. A
